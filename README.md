@@ -31,7 +31,7 @@ Usage
 
 Dataset
 
--We used the https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/ dataset in CSV format. The dataset can be downloaded from Kaggle if needed.
+-We used the dataset from the kaggle in CSV format. The dataset is attached in the file.
 
 Dependencies
 
